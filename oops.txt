@@ -3,3 +3,8 @@ objects
 
 now
 inheritance
+
+
+now all
+polymorphism
+encaspulation
